@@ -6,7 +6,7 @@ Primary Owner: @anvega
 
 Users/Groups with Access: @ajessup, @caniszczyk
 
-Billing: Unknown
+Billing: Free
 
 URL: https://orbit.love
 

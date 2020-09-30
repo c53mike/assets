@@ -4,9 +4,9 @@ Purpose: FOSSA is used to perform static analysis of project dependencies for th
 
 Primary Owner: @anvega
 
-Users/Groups with Access: Unknown
+Users/Groups with Access: @evan2645
 
-Billing: Unknown
+Billing: Free
 
 URL: https://fossa.com
 
