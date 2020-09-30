@@ -4,10 +4,10 @@ Purpose: The SPIFFE/SPIRE AWS account, and specifically S3, is used to publish b
 
 Primary Owner: Scytale/HPE
 
-Users/Groups with Access: Unknown
+Users/Groups with Access: @drrt, @sigtrap
 
 Billing: Scytale/HPE
 
-URL: https://console.aws.amazon.com/
+URL: https://scytaleio.signin.aws.amazon.com/console
 
-Notes: None
+Notes: The S3 bucket in use for SPIRE artifacts is named `scytale-artifacts`.

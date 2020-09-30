@@ -4,9 +4,9 @@ Purpose: Automated (open) enrollment for the SPIFFE Slack organization
 
 Primary Owner: @drrt
 
-Users/Groups with Access: Unknown
+Users/Groups with Access: @anvega
 
-Billing: Paid, Unknown
+Billing: @drrt
 
 URL: https://dashboard.heroku.com/apps/slackin-spiffe
 
